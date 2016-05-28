@@ -1,6 +1,6 @@
 # Theme Work Space
 
-Theme Work Space is simple a package of tools that helps you develop and share themes with the team.
+Theme Work Space is only a package of tools that helps you develop and share themes with the team.
 
 ### Tools
 - SASS;
